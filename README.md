@@ -6,7 +6,7 @@ HW7 plus sticky section navigation, a downloadable resume PDF, Font Awesome foot
 
 [Website](https://killerpigwolf.github.io/comp484-hw8/)
 
-**Publishing status: pending.** The intended website URL above will work after the repository is published and GitHub Pages finishes deploying.
+**Hosting:** GitHub Pages, published from the main branch and repository root.
 
 ## Preview
 
@@ -23,12 +23,9 @@ Personal details and experience were supplied by Daniel Isayan: one year with ON
 - [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3): body weights 400, 600.
 - Profile and education SVGs are original local graphics.
 
-## Publish and submit
+## Submit
 
-1. Create a public GitHub repository named comp484-hw8 and push this folder's main branch.
-2. Confirm the website link above matches your repository name and account.
-3. In Settings > Pages, choose Deploy from a branch, main, and / (root), then save.
-4. Wait for the Pages deployment, open the website link, and verify that the site loads.
-5. Submit the GitHub repository URL in Canvas.
+Submit this repository link in Canvas: [killerpigwolf/comp484-hw8](https://github.com/killerpigwolf/comp484-hw8).
 
+The live website is linked above. Changes pushed to main automatically trigger a GitHub Pages deployment.
 [GitHub Pages publishing instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
