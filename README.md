@@ -4,17 +4,17 @@ HW7 plus sticky section navigation, a downloadable resume PDF, Font Awesome foot
 
 ## GitHub Pages
 
-[Website](https://GITHUB_USERNAME.github.io/comp484-hw8/)
+[Website](https://killerpigwolf.github.io/comp484-hw8/)
 
-**Publishing status: pending.** GITHUB_USERNAME must be replaced with the confirmed GitHub account. This link is a template until the repository is published and Pages is verified.
+**Publishing status: pending.** The intended website URL above will work after the repository is published and GitHub Pages finishes deploying.
 
 ## Preview
 
-Open index.html in a browser. No build step is needed. Google Fonts and Font Awesome (HW8 only) require internet access; system fonts and text labels remain available if they do not load.
+Open index.html in a browser. No build step is needed. Google Fonts require internet access, with system font fallbacks. HW8 bundles Font Awesome Free 6.7.2 locally with its license so footer icons work offline.
 
 ## Content
 
-The name Daniel Isayan comes from local Git configuration and should be confirmed before submission. Experience is labeled as coursework; no employer, degree, dates of attendance, or personal contact information has been invented. The profile is an original initials graphic. Add your actual resume details and contact links before submitting. For HW8, also update resume.pdf to match any content changes.
+Personal details and experience were supplied by Daniel Isayan: one year with ON DEMAND ELECTRICAL, 2.5 years in a busy coffee shop, a graduating CIT major, technical skills, English and Russian, and email/phone contact details. No school name or graduation date was supplied. The profile is an original initials graphic. For HW8, keep resume.pdf in sync with future content changes.
 
 ## Design sources
 
@@ -26,7 +26,7 @@ The name Daniel Isayan comes from local Git configuration and should be confirme
 ## Publish and submit
 
 1. Create a public GitHub repository named comp484-hw8 and push this folder's main branch.
-2. Replace GITHUB_USERNAME in the website link above with your GitHub username and commit the update.
+2. Confirm the website link above matches your repository name and account.
 3. In Settings > Pages, choose Deploy from a branch, main, and / (root), then save.
 4. Wait for the Pages deployment, open the website link, and verify that the site loads.
 5. Submit the GitHub repository URL in Canvas.
