@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 556 >>
+stream
+BT /F1 12 Tf 50 750 Td 20 TL
+(Daniel Isayan) Tj T*
+(Web Development Student) Tj T*
+() Tj T*
+(PROFILE) Tj T*
+(Exploring HTML, CSS, typography, and visual design through coursework.) Tj T*
+() Tj T*
+(PROJECT EXPERIENCE) Tj T*
+(Resume Website | COMP 484 coursework) Tj T*
+(Built a resume site with semantic HTML and an external stylesheet.) Tj T*
+(Applied a coordinated color palette and two Google Fonts.) Tj T*
+(Practiced responsive content wrappers and reusable CSS columns.) Tj T*
+() Tj T*
+(EDUCATION) Tj T*
+(COMP 484 - Web development coursework) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+918
+%%EOF
