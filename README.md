@@ -1,4 +1,4 @@
-﻿# COMP 484 - HW8 Resume Site
+﻿# CIT 384 - HW8 Resume Site
 
 HW7 plus sticky section navigation, a downloadable resume PDF, Font Awesome footer icons, and an SVG background with an RGBA gradient overlay.
 
